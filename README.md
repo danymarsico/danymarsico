@@ -18,4 +18,3 @@ My name is Daniele Marsico, I was born and grew up in Napoli,Italy. Moved to the
 
 - 🌱 I’m currently studying coding in a bootcamp program
 - 💬 Ask me about italian food and I'll be already in the kitchen preparing something delicious for you!
-- 📫 How to reach me: feel free to contact me danymarsico@gmail.com
