@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Daniele Marsico, I was born and grew up in Napoli,Italy. Moved to the USA in 2019 and currently studying to become a full stack software developer.
+My name is Daniele Marsico, I was born and grew up in Italy. Moved to the USA in 2019 and I am full stack software developer.
 
 - 🌱 I’m currently studying coding in a bootcamp program
 - 💬 Ask me about italian food and I'll be already in the kitchen preparing something delicious for you!
